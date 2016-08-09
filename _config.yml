@@ -1,4 +1,3 @@
-layout_spectrum: 0.9679322519805282
 typography_spectrum: 0.808108321391046
 color:
   brandStrength: 0.4078919985331595
@@ -11,4 +10,6 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.9679322519805282
 name: Peas of Mind
+title: Peas in a Bubble
